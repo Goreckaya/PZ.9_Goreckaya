@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PZ9_Goreckaya">
         <activity
+            android:name=".PZ9_Goreckaya2"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
